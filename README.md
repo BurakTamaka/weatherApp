@@ -4,14 +4,14 @@ While the application provides you with daily weather forecasts, it is also equi
 
 ---
 
-#Warning!
+## Warning!
 You need to get your own api key. 
 
 ```javascript
 const APIKey = 'Your APIKey';
 ```
 
-[you can visit this website] -> (https://openweathermap.org/)
+you can visit this website -> (https://openweathermap.org/)
 
 ---
 
