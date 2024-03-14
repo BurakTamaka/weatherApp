@@ -1,4 +1,4 @@
-### weatherApp
+# weatherApp
 
 While the application provides you with daily weather forecasts, it is also equipped with precise data. Information about humidity helps you understand how humid the air is. While wind speed indicates the expected breeze intensity throughout the day, air temperature indicates the current temperature situation.
 
